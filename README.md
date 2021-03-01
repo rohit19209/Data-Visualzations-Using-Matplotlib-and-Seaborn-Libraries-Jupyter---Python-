@@ -1,5 +1,5 @@
 # Data-Visualzations-Using-Matplotlib-and-Seaborn-Libraries-Jupyter-Notebook-Python
-Description - This Python Program is to show different graphical representation/Visualisation of the data through multiple graphs.
+Description - This Python Program is to show different graphical representation/Visualisation of multiple graphs through Multiple datasets.
 <br/>
 
 Prerequisite tools as follow:
