@@ -8,6 +8,6 @@ Prerequisite tools as follow:
 <br/>
 
 Steps to use the prerequisite tools:
-1) Download the latest Anaconda distribution from "www.anaconda.com" and select Jupyter Notebook as IDE for computing. Save to your local system.
+1) Download the latest Anaconda distribution from "www.anaconda.com" and select Jupyter Notebook as IDE for computions. Save to your local system.
 2) Download the multiple datasets from "www.kaggle.com" in .csv format and save them in a folder on your local system.
 3) Open Jupyter notebook in your local system and create a new Python file and perform the analytical based codings.
