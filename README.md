@@ -1,9 +1,8 @@
 # Data-Visualzations-Using-Matplotlib-and-Seaborn-Libraries-Jupyter-Notebook-Python
 Description - This Python Program is to show different graphical representation/Visualisation of the data through multiple graphs.
+<br/>
 
-<br/>
 Prerequisite tools as follow:
-<br/>
 1) Jupyter Notebook (IDE) - To perform the coding for analysis in python language that includes import Libraries & Datasets, create multiple Statistical Visualisations and save the Python File (.ipynb).            
 2) Microsoft Excel - To open and/or read the structured or semistructed data. 
 <br/>
